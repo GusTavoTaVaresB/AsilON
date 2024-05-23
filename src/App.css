@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  text-shadow: none;
+  color: #fff;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("assets/fundo.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  color: #000;
+}
